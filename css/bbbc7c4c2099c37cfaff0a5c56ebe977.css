@@ -3,26 +3,26 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/merriweathersans/v28/2-cM9IRs1JiJN1FRAMjTN5zd9vgsFHXwWDvLBsPDdpWMaq3NzdsFxxA.ttf) format('truetype');
+  src: url('fonts/a2943906e5c8b453ac02ecf08734198e.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Merriweather Sans';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/merriweathersans/v28/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZ_O4ViesC.ttf) format('truetype');
+  src: url('fonts/b38596c799734685a4ffc1eb0612c0bb.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Merriweather Sans';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/merriweathersans/v28/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZou4ViesC.ttf) format('truetype');
+  src: url('fonts/7dd522721007db1424121d706f1ac5ca.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Merriweather Sans';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/merriweathersans/v28/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZRekViesC.ttf) format('truetype');
+  src: url('fonts/912f89a947026f2ba6c3779424efe824.ttf') format('truetype');
 }
